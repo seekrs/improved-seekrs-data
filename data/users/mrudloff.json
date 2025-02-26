@@ -1,7 +1,8 @@
 {
     "override": {
         "login": {
-            "full": "mrudloff, Garen's soul"
+			"separator": ", ",
+            "suffix": "Garen's soul"
         },
         "images": {
             "profile": "https://media.tenor.com/SBJXRMtMTrEAAAAM/dance-the-monkey.gif"
