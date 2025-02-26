@@ -1,0 +1,19 @@
+{
+    "override": {
+        "login": {
+            "prefix": "chokbar"
+        },
+        "images": {
+            "profile": "https://media1.tenor.com/m/ZuXnTDxIbjQAAAAC/shocked-shocked-cat.gif"
+        },
+        "badges": [
+            {
+                "text": "Filou",
+                "background": {
+                    "type": "color",
+                    "value": "#cc34eb"
+                }
+            }
+        ]
+    }
+}

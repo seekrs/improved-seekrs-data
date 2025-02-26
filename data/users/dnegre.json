@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "Unblackholable",
+                "background": {
+                    "type": "color",
+                    "value": "#000000"
+                }
+            }
+        ]
+    }
+}

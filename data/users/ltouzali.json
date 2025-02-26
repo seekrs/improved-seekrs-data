@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "Puant originel",
+                "background": {
+                    "type": "color",
+                    "value": "#8D5632"
+                }
+            }
+        ]
+    }
+}

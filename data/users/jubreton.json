@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "l'odeur",
+                "background": {
+                    "type": "color",
+                    "value": "#60f2bc"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "Push_swap destroyer",
+                "background": {
+                    "type": "color",
+                    "value": "#4CA3FF"
+                }
+            }
+        ]
+    }
+}

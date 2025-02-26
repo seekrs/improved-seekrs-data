@@ -1,0 +1,119 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "title": "UserData",
+    "properties": {
+        "override": {
+            "allOf": [
+                {
+                    "$ref": "#/$defs/UserOverrideData"
+                }
+            ]
+        }
+    },
+    "$defs": {
+        "UserLoginOverrideData": {
+            "type": "object",
+            "title": "UserLoginOverrideData",
+            "properties": {
+                "prefix": {
+                    "type": "string",
+                    "default": null
+                },
+                "suffix": {
+                    "type": "string",
+                    "default": null
+                },
+                "login": {
+                    "type": "string",
+                    "default": null
+                },
+                "separator": {
+                    "type": "string",
+                    "default": null
+                },
+                "full": {
+                    "type": "string",
+                    "default": null
+                }
+            }
+        },
+        "UserImageOverrideData": {
+            "type": "object",
+            "title": "UserImageOverrideData",
+            "properties": {
+                "profile": {
+                    "type": "string",
+                    "default": null
+                },
+                "banner": {
+                    "type": "string",
+                    "default": null
+                }
+            }
+        },
+        "UserBadgeBackgroundData": {
+            "type": "object",
+            "title": "UserBadgeBackgroundData",
+            "properties": {
+                "type": {
+                    "type": "string",
+                    "default": "color"
+                },
+                "value": {
+                    "type": "string",
+                    "default": "#000000"
+                }
+            }
+        },
+        "UserBadgeOverrideData": {
+            "type": "object",
+            "title": "UserBadgeOverrideData",
+            "properties": {
+                "text": {
+                    "type": "string"
+                },
+                "background": {
+                    "allOf": [
+                        {
+                            "$ref": "#/$defs/UserBadgeBackgroundData"
+                        }
+                    ]
+                }
+            },
+            "required": [
+                "text"
+            ]
+        },
+        "UserOverrideData": {
+            "type": "object",
+            "title": "UserOverrideData",
+            "properties": {
+                "login": {
+                    "allOf": [
+                        {
+                            "$ref": "#/$defs/UserLoginOverrideData"
+                        }
+                    ]
+                },
+                "images": {
+                    "allOf": [
+                        {
+                            "$ref": "#/$defs/UserImageOverrideData"
+                        }
+                    ]
+                },
+                "badges": {
+                    "type": "array",
+                    "items": {
+                        "allOf": [
+                            {
+                                "$ref": "#/$defs/UserBadgeOverrideData"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "Le malicieux",
+                "background": {
+                    "type": "color",
+                    "value": "#c40606"
+                }
+            }
+        ]
+    }
+}

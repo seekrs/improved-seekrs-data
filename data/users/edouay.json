@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "3D2",
+                "background": {
+                    "type": "color",
+                    "value": "#000000"
+                }
+            }
+        ]
+    }
+}

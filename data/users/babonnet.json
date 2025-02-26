@@ -1,0 +1,26 @@
+{
+    "override": {
+        "login": {
+            "prefix": "gcc -g3 -o glibc.debug.so"
+        },
+        "images": {
+            "profile": "https://media1.tenor.com/m/xCc58fEqFREAAAAd/nerd-nerdy.gif"
+        },
+        "badges": [
+            {
+                "text": "Seekers",
+                "background": {
+                    "type": "color",
+                    "value": "#FF6950"
+                }
+            },
+            {
+                "text": "logtime collector",
+                "background": {
+                    "type": "color",
+                    "value": "#000000"
+                }
+            }
+        ]
+    }
+}

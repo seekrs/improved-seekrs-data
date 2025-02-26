@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "chmod 000",
+                "background": {
+                    "type": "color",
+                    "value": "#d950ff"
+                }
+            }
+        ]
+    }
+}

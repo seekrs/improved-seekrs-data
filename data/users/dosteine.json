@@ -1,0 +1,13 @@
+{
+    "override": {
+        "badges": [
+            {
+                "text": "Spy",
+                "background": {
+                    "type": "color",
+                    "value": "#FF6950"
+                }
+            }
+        ]
+    }
+}
