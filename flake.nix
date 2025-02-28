@@ -1,5 +1,5 @@
 {
-  description = "improved-seekrs data repository";
+  description = "Seekrs' Intra Data Repository";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
