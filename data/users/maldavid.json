@@ -1,6 +1,7 @@
 {
 	"login": "maldavid",
     "override": {
+		"name": "David Malo",
         "login": {
             "full": "idiot"
         },
