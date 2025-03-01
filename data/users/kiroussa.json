@@ -1,11 +1,11 @@
 {
-	"login": "kiroussa",
-    "override": {
-        "login": {
-            "prefix": "catgirl"
-        },
-        "images": {
-            "profile": "https://media1.tenor.com/m/SmQiEMC3gWEAAAAC/mapache-pedro-p%C3%A9.gif"
-        }
+  "login": "kiroussa",
+  "override": {
+    "login": {
+      "prefix": "catgirl"
+    },
+    "images": {
+      "profile": "https://media1.tenor.com/m/SmQiEMC3gWEAAAAC/mapache-pedro-p%C3%A9.gif"
     }
+  }
 }

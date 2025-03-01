@@ -1,14 +1,14 @@
 {
-	"login": "dnegre",
-    "override": {
-        "badges": [
-            {
-                "text": "Unblackholable",
-                "background": {
-                    "type": "color",
-                    "value": "#000000"
-                }
-            }
-        ]
-    }
+  "login": "dnegre",
+  "override": {
+    "badges": [
+      {
+        "text": "Unblackholable",
+        "background": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    ]
+  }
 }

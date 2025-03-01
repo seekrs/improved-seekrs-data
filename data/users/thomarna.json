@@ -1,8 +1,8 @@
 {
-	"login": "thomarna",
-    "override": {
-        "login": {
-            "suffix": "le coll\u00e8gue"
-        }
+  "login": "thomarna",
+  "override": {
+    "login": {
+      "suffix": "le collègue"
     }
+  }
 }

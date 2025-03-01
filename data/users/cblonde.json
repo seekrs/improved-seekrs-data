@@ -1,8 +1,8 @@
 {
-	"login": "cblonde",
-    "override": {
-        "login": {
-            "prefix": "Outstanding"
-        }
+  "login": "cblonde",
+  "override": {
+    "login": {
+      "prefix": "Outstanding"
     }
+  }
 }

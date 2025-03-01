@@ -1,14 +1,14 @@
 {
-	"login": "tlafont",
-    "override": {
-        "badges": [
-            {
-                "text": "D\u00e9mineur",
-                "background": {
-                    "type": "color",
-                    "value": "#000000"
-                }
-            }
-        ]
-    }
+  "login": "tlafont",
+  "override": {
+    "badges": [
+      {
+        "text": "Démineur",
+        "background": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    ]
+  }
 }

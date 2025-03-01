@@ -1,8 +1,8 @@
 {
-	"login": "rgramati",
-    "override": {
-        "images": {
-            "profile": "https://media1.tenor.com/m/LPED8VlhOZIAAAAC/simpsons-monkey.gif"
-        }
+  "login": "rgramati",
+  "override": {
+    "images": {
+      "profile": "https://media1.tenor.com/m/LPED8VlhOZIAAAAC/simpsons-monkey.gif"
     }
+  }
 }

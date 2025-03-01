@@ -1,8 +1,8 @@
 {
-	"login": "lvincent",
-    "override": {
-        "login": {
-            "prefix": "Toilet Destroyer"
-        }
+  "login": "lvincent",
+  "override": {
+    "login": {
+      "prefix": "Toilet Destroyer"
     }
+  }
 }

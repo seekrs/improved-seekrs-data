@@ -1,9 +1,9 @@
 {
-	"login": "elbouche",
-    "override": {
-        "login": {
-			"login": "elias",
-            "suffix": "le goat"
-        }
+  "login": "elbouche",
+  "override": {
+    "login": {
+      "login": "elias",
+      "suffix": "le goat"
     }
+  }
 }

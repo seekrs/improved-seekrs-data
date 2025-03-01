@@ -1,8 +1,8 @@
 {
-	"login": "cglandus",
-    "override": {
-        "login": {
-            "prefix": "The Legend"
-        }
+  "login": "cglandus",
+  "override": {
+    "login": {
+      "prefix": "The Legend"
     }
+  }
 }

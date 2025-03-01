@@ -1,8 +1,8 @@
 {
-	"login": "axcallet",
-    "override": {
-        "login": {
-            "suffix": "le clown"
-        }
+  "login": "axcallet",
+  "override": {
+    "login": {
+      "suffix": "le clown"
     }
+  }
 }

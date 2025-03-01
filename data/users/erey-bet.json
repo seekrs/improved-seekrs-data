@@ -1,8 +1,8 @@
 {
-	"login": "erey-bet",
-    "override": {
-        "login": {
-            "full": "bozo le clown"
-        }
+  "login": "erey-bet",
+  "override": {
+    "login": {
+      "full": "bozo le clown"
     }
+  }
 }

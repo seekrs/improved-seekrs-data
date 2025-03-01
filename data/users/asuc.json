@@ -1,8 +1,8 @@
 {
-	"login": "asuc",
-    "override": {
-        "login": {
-            "login": "asuce"
-        }
+  "login": "asuc",
+  "override": {
+    "login": {
+      "login": "asuce"
     }
+  }
 }

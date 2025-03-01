@@ -1,14 +1,14 @@
 {
-	"login": "dosteine",
-    "override": {
-        "badges": [
-            {
-                "text": "Spy",
-                "background": {
-                    "type": "color",
-                    "value": "#FF6950"
-                }
-            }
-        ]
-    }
+  "login": "dosteine",
+  "override": {
+    "badges": [
+      {
+        "text": "Spy",
+        "background": {
+          "type": "color",
+          "value": "#FF6950"
+        }
+      }
+    ]
+  }
 }

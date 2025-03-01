@@ -1,14 +1,14 @@
 {
-	"login": "wneel",
-    "override": {
-        "badges": [
-            {
-                "text": "Le malicieux",
-                "background": {
-                    "type": "color",
-                    "value": "#c40606"
-                }
-            }
-        ]
-    }
+  "login": "wneel",
+  "override": {
+    "badges": [
+      {
+        "text": "Le malicieux",
+        "background": {
+          "type": "color",
+          "value": "#c40606"
+        }
+      }
+    ]
+  }
 }

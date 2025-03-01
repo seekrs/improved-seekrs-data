@@ -1,14 +1,14 @@
 {
-	"login": "grandria",
-    "override": {
-        "badges": [
-            {
-                "text": "Impostor",
-                "background": {
-                    "type": "color",
-                    "value": "#FF6950"
-                }
-            }
-        ]
-    }
+  "login": "grandria",
+  "override": {
+    "badges": [
+      {
+        "text": "Impostor",
+        "background": {
+          "type": "color",
+          "value": "#FF6950"
+        }
+      }
+    ]
+  }
 }

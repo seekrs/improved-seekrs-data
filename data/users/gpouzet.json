@@ -1,8 +1,8 @@
 {
-	"login": "gpouzet",
-    "override": {
-        "login": {
-            "prefix": "react enjoyer"
-        }
+  "login": "gpouzet",
+  "override": {
+    "login": {
+      "prefix": "react enjoyer"
     }
+  }
 }

@@ -1,14 +1,14 @@
 {
-	"login": "judetre",
-    "override": {
-        "badges": [
-            {
-                "text": "The plumber",
-                "background": {
-                    "type": "color",
-                    "value": "#0013FF"
-                }
-            }
-        ]
-    }
+  "login": "judetre",
+  "override": {
+    "badges": [
+      {
+        "text": "The plumber",
+        "background": {
+          "type": "color",
+          "value": "#0013FF"
+        }
+      }
+    ]
+  }
 }

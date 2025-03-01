@@ -1,8 +1,8 @@
 {
-	"login": "adjoly",
-    "override": {
-        "login": {
-            "prefix": "Forked from"
-        }
+  "login": "adjoly",
+  "override": {
+    "login": {
+      "prefix": "Forked from"
     }
+  }
 }

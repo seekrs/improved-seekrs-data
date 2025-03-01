@@ -1,21 +1,21 @@
 {
-	"login": "maldavid",
-    "override": {
-		"name": "David Malo",
-        "login": {
-            "full": "idiot"
-        },
-        "images": {
-            "profile": "https://media1.tenor.com/m/FetQ_KhWgd4AAAAd/chill-guy.gif"
-        },
-        "badges": [
-            {
-                "text": "MLX man",
-                "background": {
-                    "type": "color",
-                    "value": "#ba2020"
-                }
-            }
-        ]
-    }
+  "login": "maldavid",
+  "override": {
+    "name": "David Malo",
+    "login": {
+      "full": "idiot"
+    },
+    "images": {
+      "profile": "https://media1.tenor.com/m/FetQ_KhWgd4AAAAd/chill-guy.gif"
+    },
+    "badges": [
+      {
+        "text": "MLX man",
+        "background": {
+          "type": "color",
+          "value": "#ba2020"
+        }
+      }
+    ]
+  }
 }

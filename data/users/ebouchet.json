@@ -1,8 +1,8 @@
 {
-	"login": "ebouchet",
-    "override": {
-        "login": {
-            "prefix": "drole de"
-        }
+  "login": "ebouchet",
+  "override": {
+    "login": {
+      "prefix": "drole de"
     }
+  }
 }

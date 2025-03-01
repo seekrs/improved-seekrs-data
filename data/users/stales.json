@@ -1,8 +1,8 @@
 {
-	"login": "stales",
-    "override": {
-        "login": {
-            "prefix": "big brain"
-        }
+  "login": "stales",
+  "override": {
+    "login": {
+      "prefix": "big brain"
     }
+  }
 }
