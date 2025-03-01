@@ -1,10 +1,7 @@
 {
   "login": "maldavid",
   "override": {
-    "name": "David Malo",
-    "login": {
-      "full": "idiot"
-    },
+    "name": "Malo \"Mauvais\" David",
     "images": {
       "profile": "https://media1.tenor.com/m/FetQ_KhWgd4AAAAd/chill-guy.gif"
     },
