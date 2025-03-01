@@ -2,6 +2,9 @@
   "login": "maldavid",
   "override": {
     "name": "Malo \"Mauvais\" David",
+    "login": {
+      "login": "mauvdavid"
+    },
     "images": {
       "profile": "https://media1.tenor.com/m/FetQ_KhWgd4AAAAd/chill-guy.gif"
     },

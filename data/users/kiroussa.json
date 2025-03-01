@@ -2,6 +2,7 @@
   "login": "kiroussa",
   "override": {
     "login": {
+      "login": "kroussar",
       "prefix": "catgirl"
     },
     "images": {
