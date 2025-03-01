@@ -1,4 +1,5 @@
 {
+	"login": "babonnet",
     "override": {
         "login": {
             "prefix": "gcc -g3 -o glibc.debug.so"

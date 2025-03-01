@@ -1,4 +1,5 @@
 {
+	"login": "vvaas",
     "override": {
         "login": {
             "prefix": "chokbar"

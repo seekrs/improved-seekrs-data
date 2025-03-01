@@ -1,4 +1,5 @@
 {
+	"login": "kiroussa",
     "override": {
         "login": {
             "prefix": "catgirl"

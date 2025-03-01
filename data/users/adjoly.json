@@ -1,4 +1,5 @@
 {
+	"login": "adjoly",
     "override": {
         "login": {
             "prefix": "Forked from"
